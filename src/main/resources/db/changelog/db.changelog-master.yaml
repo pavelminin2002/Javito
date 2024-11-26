@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: migrations/CREATE_PRODUCT_TABLE.sql
+      relativeToChangelogFile: true
